@@ -1,0 +1,10 @@
+flask
+gunicorn
+scikit-learn
+numpy
+scipy
+joblib
+nltk
+beautifulsoup4
+Distance
+fuzzywuzzy[speedup]   # includes python-levenshtein for faster fuzzy matching
