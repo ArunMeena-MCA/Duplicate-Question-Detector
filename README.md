@@ -3,6 +3,7 @@
 A simple web app built with Flask + machine learning to detect whether two questions are duplicates or not.
 
 **Live Demo:** https://duplicate-question-detector-q8ba.onrender.com/
+
 **Google Collab Link:** https://colab.research.google.com/drive/1WkVSWemtDO73IPBj2Lve3mlAOv5oyN1v
 
 ---
